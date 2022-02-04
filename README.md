@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @konczuk
-- 👀 I’m interested in astrology
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C# and HTML
